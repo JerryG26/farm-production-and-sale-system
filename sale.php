@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sale Management</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/customer_&_sales_styles.css">
 </head>
 <body>
   <div class="container">
